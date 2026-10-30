@@ -50,7 +50,7 @@ notebooks = [
 ]
 
 [project.urls]
-Repository = "https://github.com/Ahmadmohammadip/forecast-driven-bess-dispatch"
+Repository = "https://github.com/matinjalali543-lang/forecast-driven-bess-dispatch"
 
 [tool.setuptools.packages.find]
 where = ["src"]
